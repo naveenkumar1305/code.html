@@ -1,0 +1,145 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"><style>body{}#m_form{display:flex}#m_body1{display:flex;text-align:center}input{display:flex}#m_login-form{border:8px solid rgb(145,31,31);padding:60px}#m_courseList{display:inline-block;text-align:left}</style></head><body><u></u>
+
+
+    
+    
+    
+    
+    
+
+<div>
+
+    <center>
+        <div class="m_body1">
+            <h1 id="m_table-heading">TABLES AND LISTS</h1>
+            <table id="m_courseTable" border="2px solid black">
+                <tr>
+                    <th>Roll No</th>
+                    <th>Name</th>
+                    <th>Course</th>
+                    <th>Department</th>
+                </tr>
+                <tr>
+                    <td>3050</td>
+                    <td>Mohamed Aadil</td>
+                    <td>Data science</td>
+                    <td>IT</td>
+                </tr>
+                <tr>
+                 <td>3042</td>
+                 <td>Kalyaan Mahendar</td>
+                 <td>Cyber Security</td>
+                 <td>IT</td>
+                </tr>
+                <tr>
+                 <td>3053</td>
+                 <td>Lohesh Prahal</td>
+                 <td>Data Structures</td>
+                 <td>IT</td>
+                </tr>
+                <tr>
+                 <td>3059</td>
+                 <td>Nithesh</td>
+                 <td>Cloud Computing</td>
+                 <td>IT</td>
+                </tr>
+                <tr>
+                    <td>3054</td>
+                    <td>Karthickvasan</td>
+                    <td>Cyber Security</td>
+                    <td>IT</td>
+                </tr>
+                <tr>
+                    <td>3050</td>
+                    <td>Shashwanth</td>
+                    <td>Data anaylis</td>
+                    <td>IT</td>
+                </tr>
+                <tr>
+                    <td>3052</td>
+                    <td>Likesh Abhimanyu</td>
+                    <td>Cyber Security</td>
+                    <td>IT</td>
+                </tr>
+             </table>
+             <h2 id="m_courseHeading">Courses Available</h2>
+             <ul id="m_courseList">
+                 <li>Computer Science</li>
+                 <li>Electronics</li>
+                 <li>Aerounautics</li>
+                 <li>Artificial Intelligence</li>
+                 <li>Bio Medical</li>
+             </ul>
+     
+     Â Â Â </div>
+    </center>
+
+<br>
+
+
+<center>
+    <div>
+        <h1 id="m_imageHeading">Image Map</h1>
+
+
+        <img src="https://ci3.googleusercontent.com/proxy/LPEtwU7vgeqNOLcA6im6eUGO-A491j7yD7-cjrbaeXWI8lYPKboCk24T7vifVpkyhQ_4CvCxu-qN9nGWRUlC=s0-d-e1-ft#https://www.w3schools.com/tags/workplace.jpg" alt="Workplace" usemap="#m__workmap" width="400" height="379">
+
+        <map name="m__workmap">
+            <area shape="rect" coords="35,45,280,360" alt="Computer" href="https://www.google.com/url?q=https://upload.wikimedia.org/wikipedia/commons/1/1a/Crystal_Project_computer.png&amp;source=gmail-html&amp;ust=1672807558900000&amp;usg=AOvVaw0L4Taj8O3gEhbCFvSlHX_D" target="_blank" rel="noreferrer">
+            <area shape="rect" coords="291,175,335,255" alt="Phone" href="https://www.google.com/url?q=https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid%3D508%26hei%3D472%26fmt%3Dp-jpg%26qlt%3D95%26.v%3D1663611329204&amp;source=gmail-html&amp;ust=1672807558900000&amp;usg=AOvVaw0V-cgPFDfCh0JXqEQLJdG1" target="_blank" rel="noreferrer">
+            <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="https://www.google.com/url?q=https://wallpaperaccess.com/full/1158153.jpg&amp;source=gmail-html&amp;ust=1672807558900000&amp;usg=AOvVaw35UYR83-DaKkpqNcST03aS" target="_blank" rel="noreferrer">
+        </map>
+    </div>
+</center>
+
+    
+
+    <br>
+    
+    <div id="m_form">
+        <form id="m_login-form" action="#m__" target="_blank">   
+            <label for="m_fname">NAME:</label>
+            <input id="m_fname" type="text">
+            <br>
+            <label for="m_password">PASSWORD:</label>
+            <input id="m_password" type="password">
+            <br>
+            <label for="m_email">E-MAIL:</label>
+            <input type="email">
+            <br>
+            <label for="m_course">COURSE:</label>
+            <select name="course" id="m_course">
+                <option value="COMPUTER SCIENCE ENGINEERING">COMPUTER SCIENCE ENGIEERING</option>
+                <option value="INFORMATION TECHNOLOGY">INFORMATION TECHNOLOGY</option>
+                <option value="ELECTRONICS AND COMMUNICATION ENGINEERING">ELECTRONICD AND COMMUNICATION ENGINEERING</option>
+                <option value="ELECTRICAL AND ELECTRONICS ENGINEERING">ELECTRICAL AND ELECTRONICS ENGINEERING</option>
+            </select>
+            <br>
+            <label for="m_address">Address:</label>
+            <textarea name="address" id="m_address" cols="40" rows="10"></textarea>
+            <br>
+            <label for="m_countries">Country</label>
+            <input name="countries" id="m_countries">
+            <u></u>
+                <option value="India">
+                <option value="Russia">
+                <option value="Germany">
+                <option value="Japan">
+                <option value="USA">
+            <u></u>
+            <br>
+
+            <button id="m_submit_btn">SUbMit</button>
+            
+        </option></option></option></option></option></form>
+    </div>
+    <br>
+    <div>
+        <center>
+            <h1 id="m_frameHeading">FRAMES IN HTML</h1>
+            
+        </center>
+    </div>
+</div>
+</body></html>

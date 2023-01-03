@@ -1,0 +1,86 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"><style>div{padding:30px}body{background-image:url("https://ci3.googleusercontent.com/proxy/2g_K_b0SW7SVrmCd1jaMp7pYtAPMaahFh2ePuYx8OmYRmOPRE-4uXqPwRAFP9gKFNDOlz4oDnSci_BDNVDMgJn5_qOb9KVAtwxAdgq_A26rFZw5AVeeXz46gQZxz-VJthB5Q8QZQ3aYsnQ=s0-d-e1-ft#https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress\000026cs=tinysrgb\000026w=600");color:rgb(214,60,60);background-size:cover}textarea{opacity:0.5}input{opacity:0.5}</style></head><body><u></u>
+
+
+    
+    
+    
+    
+    
+    <div align="center">
+        <h2 id="m_TitleName">FRIEND BOOK</h2>
+    </div>
+
+<div>
+    
+    <img id="m_backgroundImage" alt="">
+
+
+    <center>
+        <form id="m_yourName" action="#m__" target="_blank">
+            <div>
+                <label for="m_textBox">Your Name: </label>
+                <br>
+                <input id="m_textBox" type="text">
+            </div>
+        <div>
+            <label id="m_field1" for="m_textBox1">1. Few words about me!</label>
+            <br>
+            <textarea name="textBox1" id="m_textBox1" cols="40" rows="10"></textarea>
+        </div>
+        <div>
+            <label for="m_textBox2">2. A nickname for me?</label>
+            <br>
+            <textarea name="textBox2" id="m_textBox2" cols="40" rows="10"></textarea>
+        </div>
+        
+        <div>
+            <p>3. Have you ever lied to me?</p>
+            <label for="m_yesMayBe">Yes</label>
+            <input type="radio" name="yesMayBe" id="m_yesMayBe">
+            
+            <label for="m_yesMaybe">Maybe</label>
+            <input type="radio" name="yesMayBe" id="m_YesMayBe">
+        </div>
+        <div>
+            <p>4. How do you feel when you talk to me?</p>
+            <label for="m_feel">Happy</label>
+            <input type="radio" name="feel1" id="m_feel">
+            
+            <label for="m_feel2">Irritated</label>
+            <input type="radio" name="feel1" id="m_feel2">
+        </div>
+        <div>
+            <p>5. Would you like to have a roadtrip with me?</p>
+            <label for="m_trip">Yes</label>
+            <input type="radio" name="trip1" id="m_trip">
+            
+            <label for="m_trip2">Maybe</label>
+            <input type="radio" name="trip1" id="m_trip2">
+        </div>
+        <div>
+            <p>6. Best color that suits me?</p>
+            <label for="m_bestColour">Red</label>
+            <input type="checkbox" id="m_bestColour">
+
+            <label for="m_bestColour">Black</label>
+            <input type="checkbox" id="m_bestColour">
+
+            <label for="m_bestColour">White</label>
+            <input type="checkbox" id="m_bestColour">
+
+            <label for="m_bestColour">Blue</label>
+            <input type="checkbox" id="m_bestColour">
+
+            <label for="m_bestColour">Violet</label>
+            <input type="checkbox" id="m_bestColour">
+        </div>
+        <div>
+            <p id="m_moment">7. The best moment in our friendship?</p>
+            <textarea name="" id="m_moment" cols="40" rows="10"></textarea>
+        </div>
+    </form>
+    </center>
+    
+</div>
+</body></html>

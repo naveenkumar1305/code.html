@@ -1,0 +1,87 @@
+
+Conversation opened. 2 messages. All messages read.
+
+Skip to content
+Using R.M.K. Engineering College Mail with screen readers
+in:sent 
+
+1 of 7
+(no subject)
+Inbox
+MOHAMED AADIL M UIT22057
+AttachmentsDec 30, 2022, 1:57 PM (4 days ago)
+ 
+
+NAVEENKUMAR P UIT22063 <nave22063.it@rmkec.ac.in>
+Attachments
+10:05 AM (9 minutes ago)
+to kish22118.it
+
+
+
+---------- Forwarded message ---------
+From: MOHAMED AADIL M UIT22057 <moha22057.it@rmkec.ac.in>
+Date: Fri, Dec 30, 2022 at 1:57 PM
+Subject:
+To: <nave22063.it@rmkec.ac.in>
+
+
+
+
+5
+ Attachments
+  •  Scanned by Gmail
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography images</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div>
+
+    <div class="container">
+        <h1 id="titleName"> NEO PHOTOGRAPHY</h1>
+        <h2 id="titleDescription">Beautiful Commercial Photography</h2>
+        <a onclick="myFunction()" id="VIEW WORK">VIEW WORK</a>
+    </div>
+    <div id="images">
+    <div class="image">
+        <img src="https://images.pexels.com/photos/2106685/pexels-photo-2106685.jpeg?auto=compress&cs=tinysrgb&w=600" alt="pic1" id="backGroundImage" >
+    </div>
+    <div class="image">
+        <h3 id="ourWork"> OUR WORK</h3>
+        <img src="https://images.pexels.com/photos/36785/soldier-military-uniform-american.jpg?auto=compress&cs=tinysrgb&w=600" alt="pic2" id="firstImage" >
+    </div>
+    <div class="image">
+        <img src="https://images.pexels.com/photos/11161356/pexels-photo-11161356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"" alt="pic3" id="secondImage"><p id="firstImageName"> FOOD PHOTOGRAPHY </p>
+        
+    </div>
+    <div class="image">
+        <img src="https://images.pexels.com/photos/11012492/pexels-photo-11012492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pic4" id="thirdImage">
+        <p id="secondImageName">AERIAL PHOTOGRAPHY</p>
+    </div>
+    <div class="image">
+        <img src="https://images.pexels.com/photos/3585029/pexels-photo-3585029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pic5" id="fourthImage">
+        <p id="thirdImageName">ABSTRACT PHOTOGRAPHY</p>
+    </div>
+</div>
+</div>
+
+</body>
+<script>
+    function myFunction(){
+        var x = document.getElementById("images");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+</html>
+Aadil's photography.txt
+Displaying Aadil's photography.txt.
